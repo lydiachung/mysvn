@@ -1,8 +1,7 @@
 
-<Schema modtime="09/19/13 10:50 AM">
+<Schema modtime="09/19/13 11:00 AM">
   <Table name="whses">
     <Column name="whseid" type="n" length="10" prec="0" />
-    <Column name="whsecd" type="c" length="10" />
     <Column name="whsename" type="c" length="50" />
     <Column name="pctthresh" type="n" length="10" prec="3" />
     <Column name="modtime" type="d" length="10" />
