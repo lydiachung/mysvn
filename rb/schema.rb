@@ -1,5 +1,5 @@
 # schema.rb
-#
+# TODO: LPC needs to fix all her mistakes.
 class Schema
   
   def initialize() 
