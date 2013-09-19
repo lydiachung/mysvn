@@ -1,5 +1,5 @@
 
-<Schema modtime="09/19/13 10:11">
+<Schema modtime="09/19/13 10:39 AM">
   <Table name="whses">
     <Column name="whseid" type="n" length="10" prec="0" />
     <Column name="whsecd" type="c" length="10" />
