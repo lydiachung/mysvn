@@ -1,0 +1,9 @@
+
+<Schema modtime="09/19/13 10:11">
+  <Table name="whses">
+    <Column name="whseid" type="n" length="10" prec="0" />
+    <Column name="whsecd" type="c" length="10" />
+    <Column name="whsename" type="c" length="50" />
+    <Column name="modtime" type="d" length="10" />
+  </Table>
+</Schema>
