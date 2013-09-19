@@ -1,4 +1,5 @@
-
+# schema.rb
+#
 class Schema
   
   def initialize() 
